@@ -12,7 +12,7 @@ https://warwick.ac.uk/fac/sci/dcs/research/tia/glascontest/download/
 
 
 # Models and Results
-- Description and conclusions are in Poster.pdf and Article.docs
-- UNet and Mask-RCNN were used and compared in this project
-- Pytorch is used for networks implementation
+- Description and conclusions are in Poster.pdf and Final_Report.pdf
+- UNet and Mask-RCNN were implemented using Pytorch
+- Metrics used for comparison can be found here https://github.com/petoor/ImageMetrics
 - To recreate results some modifications of input/output paths are required
